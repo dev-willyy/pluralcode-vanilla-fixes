@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.blue-background {
+  background-color: #2d18a7;
+}
+
+.brown-background {
+  background-color: #854135;
+}
+
+.green-background {
+  background-color: #637508;
+}
+
+.btn-secondary {
+  background-color: #808080;
+}
